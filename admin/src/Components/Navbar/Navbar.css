@@ -1,0 +1,42 @@
+.navbar{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:15px 60px;
+    box-shadow:0 1px 3px -2px #000;
+    margin-bottom:1px;
+    background: rgb(228, 223, 223);
+    
+}
+.logo{
+    display:flex;
+    gap:5px;
+    cursor: pointer;
+}
+.nav-logo{
+    width:40px;
+}
+.profile{
+    display:flex;
+    gap:5px;
+}
+.nav-profile:first-child{
+    width:35px;
+}
+.nav-profile:nth-child(2){
+    width:25px;
+    height: 15px;
+    
+}
+@media(max-width:800px){
+    .navbar{
+        padding: 15px 30px;
+    }
+    .nav-logo{
+       width:30px; 
+    }
+    .nav-profile{
+        width:25px;
+    }
+}
+
