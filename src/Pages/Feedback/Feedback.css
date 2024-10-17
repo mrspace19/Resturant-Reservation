@@ -1,0 +1,91 @@
+/* Feedback.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .form-container {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-container label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .form-container input[type="text"],
+  .form-container input[type="email"],
+  .form-container textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  .form-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .form-container button:hover {
+    background-color: #45a049;
+  }
+  
+  .form-container span {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
+  .back-to-home {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    position: sticky;
+    bottom: 0;
+    background-color: #fff;
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1);
+    transition: color 0.3s ease;
+  }
+  
+  .back-to-home:hover {
+    color: #4CAF50;
+  }
+  
+  .back-to-home svg {
+    margin-left: 5px;
+    transition: transform 0.3s ease;
+  }
+  
+  .back-to-home:hover svg {
+    transform: translateX(3px);
+  }
+  

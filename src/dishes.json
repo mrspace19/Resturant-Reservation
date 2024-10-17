@@ -1,0 +1,284 @@
+{
+    "dishes": [
+        {
+            "id": 9,
+            "image": "./breakfast2.png",
+            "title": "AVOCADO TOAST",
+            "category": "Breakfast",
+            "price": "₹250"
+        },
+        {
+            "id": 19,
+            "image": "./indian3.png",
+            "title": "PALAK PANEER",
+            "category": "Lunch",
+            "price": "₹350"
+        },
+        {
+            "id": 20,
+            "image": "./indian4.png",
+            "title": "CHANA MASALA",
+            "category": "Dinner",
+            "price": "₹300"
+        },
+        {
+            "id": 37,
+            "image": "./indian21.png",
+            "title": "KHEER",
+            "category": "Dessert",
+            "price": "₹150"
+        },
+        {
+            "id": 29,
+            "image": "./indian13.png",
+            "title": "PANI PURI",
+            "category": "Snacks",
+            "price": "₹100"
+        },
+        {
+            "id": 21,
+            "image": "./indian5.png",
+            "title": "ROGAN JOSH",
+            "category": "Dinner",
+            "price": "₹450"
+        },
+        {
+            "id": 22,
+            "image": "./indian6.png",
+            "title": "DAL MAKHANI",
+            "category": "Dinner",
+            "price": "₹320"
+        },
+        {
+            "id": 23,
+            "image": "./indian7.png",
+            "title": "BIRYANI",
+            "category": "Dinner",
+            "price": "₹400"
+        },
+        {
+            "id": 7,
+            "image": "./dinner5.png",
+            "title": "ITALIAN SPAGHETTI",
+            "category": "Dinner",
+            "price": "₹480"
+        },
+        {
+            "id": 8,
+            "image": "./dinner6.png",
+            "title": "GRILLED FISH",
+            "category": "Dinner",
+            "price": "₹550"
+        },
+        {
+            "id": 13,
+            "image": "./breakfast3.png",
+            "title": "FRUIT PARFAIT",
+            "category": "Dessert",
+            "price": "₹180"
+        },
+        {
+            "id": 24,
+            "image": "./indian8.png",
+            "title": "SAMOSA",
+            "category": "Snacks",
+            "price": "₹60"
+        },
+        {
+            "id": 25,
+            "image": "./indian9.png",
+            "title": "PAV BHAJI",
+            "category": "Dinner",
+            "price": "₹220"
+        },
+        {
+            "id": 26,
+            "image": "./indian10.png",
+            "title": "TANDOORI CHICKEN",
+            "category": "Dinner",
+            "price": "₹380"
+        },
+        {
+            "id": 27,
+            "image": "./indian11.png",
+            "title": "MASALA DOSA",
+            "category": "Breakfast",
+            "price": "₹120"
+        },
+        {
+            "id": 28,
+            "image": "./indian12.png",
+            "title": "IDLI SAMBAR",
+            "category": "Breakfast",
+            "price": "₹100"
+        },
+        {
+            "id": 30,
+            "image": "./indian14.png",
+            "title": "MUTTON CURRY",
+            "category": "Dinner",
+            "price": "₹480"
+        },
+        {
+            "id": 31,
+            "image": "./indian15.png",
+            "title": "ALOO PARATHA",
+            "category": "Breakfast",
+            "price": "₹80"
+        },
+        {
+            "id": 32,
+            "image": "./indian16.png",
+            "title": "POHA",
+            "category": "Breakfast",
+            "price": "₹60"
+        },
+        {
+            "id": 33,
+            "image": "./indian17.png",
+            "title": "PANEER BUTTER MASALA",
+            "category": "Dinner",
+            "price": "₹360"
+        },
+        {
+            "id": 34,
+            "image": "./indian18.png",
+            "title": "RAJMA CHAWAL",
+            "category": "Lunch",
+            "price": "₹250"
+        },
+        {
+            "id": 35,
+            "image": "./indian19.png",
+            "title": "MALAI KOFTA",
+            "category": "Dinner",
+            "price": "₹340"
+        },
+        {
+            "id": 36,
+            "image": "./indian20.png",
+            "title": "BHINDI MASALA",
+            "category": "Lunch",
+            "price": "₹220"
+        },
+        {
+            "id": 1,
+            "image": "./dinner1.jpeg",
+            "title": "ROASTED LAMB RUMP",
+            "category": "Dinner",
+            "price": "₹550"
+        },
+        {
+            "id": 2,
+            "image": "./dinner2.png",
+            "title": "CITRUS CURED SALMON",
+            "category": "Dinner",
+            "price": "₹650"
+        },
+        {
+            "id": 3,
+            "image": "./breakfast1.png",
+            "title": "PAN SEARED SEA BASS",
+            "category": "Breakfast",
+            "price": "₹700"
+        },
+        {
+            "id": 5,
+            "image": "./lunch1.png",
+            "title": "BEEF BURGER MEAL",
+            "category": "Lunch",
+            "price": "₹450"
+        },
+        {
+            "id": 6,
+            "image": "./dinner4.png",
+            "title": "MUSSELS SOUP",
+            "category": "Dinner",
+            "price": "₹400"
+        },
+        {
+            "id": 10,
+            "image": "./lunch2.png",
+            "title": "CHICKEN SALAD",
+            "category": "Lunch",
+            "price": "₹280"
+        },
+        {
+            "id": 11,
+            "image": "./dinner7.png",
+            "title": "VEGETABLE PASTA",
+            "category": "Dinner",
+            "price": "₹320"
+        },
+        {
+            "id": 12,
+            "image": "./dinner8.png",
+            "title": "STEAK WITH FRIES",
+            "category": "Dinner",
+            "price": "₹600"
+        },
+        {
+            "id": 14,
+            "image": "./lunch3.png",
+            "title": "GRILLED CHICKEN SANDWICH",
+            "category": "Snacks",
+            "price": "₹150"
+        },
+        {
+            "id": 15,
+            "image": "./dinner9.png",
+            "title": "BAKED SALMON",
+            "category": "Dinner",
+            "price": "₹650"
+        },
+        {
+            "id": 16,
+            "image": "./dinner10.png",
+            "title": "BEEF STROGANOFF",
+            "category": "Dinner",
+            "price": "₹550"
+        },
+        {
+            "id": 4,
+            "image": "./dinner3.png",
+            "title": "STUFFED STRAWBERRY",
+            "category": "Dessert",
+            "price": "₹200"
+        },
+        {
+            "id": 38,
+            "image": "./indian22.png",
+            "title": "GULAB JAMUN",
+            "category": "Dessert",
+            "price": "₹100"
+        },
+        {
+            "id": 39,
+            "image": "./indian23.png",
+            "title": "JALEBI",
+            "category": "Dessert",
+            "price": "₹80"
+        },
+        {
+            "id": 17,
+            "image": "./indian1.png",
+            "title": "BUTTER CHICKEN",
+            "category": "Dinner",
+            "price": "₹400"
+        },
+        {
+            "id": 18,
+            "image": "./indian2.png",
+            "title": "CHICKEN TIKKA MASALA",
+            "category": "Dinner",
+            "price": "₹420"
+        },
+        {
+            "id": 40,
+            "image": "./indian24.png",
+            "title": "RASMALAI",
+            "category": "Dessert",
+            "price": "₹150"
+        }
+    ]
+}
